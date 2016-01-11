@@ -1,0 +1,93 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3468475,28.5484257 ]
+    },
+    "properties": {
+    "name":"Orlando Skate Park",
+    "address":"400 Festival Way, Orlando, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4429365,28.5527151 ]
+    },
+    "properties": {
+    "name":"Barnett Park",
+    "address":"4801 W. Colonial Drive, Orlando, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.439799,28.5084305 ]
+    },
+    "properties": {
+    "name":"Orlando Metro Skateboard Academy",
+    "address":"4624 L.B. McLeod Road, Orlando, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5676346,28.5715485 ]
+    },
+    "properties": {
+    "name":"Fort Barachel Bike and Skate",
+    "address":"130 N. West Crown Point Road, Winter Garden, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3238068,28.7755508 ]
+    },
+    "properties": {
+    "name":"Lake Mary Skate Park",
+    "address":"550 Rantoul Lane, Lake Mary, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1787338,28.6471653 ]
+    },
+    "properties": {
+    "name":"Rippin' Riverside Skate Park",
+    "address":"1600 Lockwood Boulevard, Oviedo, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3368149,28.7107239 ]
+    },
+    "properties": {
+    "name":"Longwood Skate Park at Candyland Park",
+    "address":"599 Longdale Avenue, Longwood, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3523254,28.3132381 ]
+    },
+    "properties": {
+    "name":"Lakeside Skate Park",
+    "address":"2253 Lakeside Drive, Kisssimee, FL"
+    }
+  }
+]
+}
